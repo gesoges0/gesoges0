@@ -12,15 +12,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          optimize: css, xml, svg
-          experimental_features: --optimize-svg
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: gesoges0
+          filename: topics.icon.svg
+          token: NOT_NEEDED
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: B      # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes      # Display unlocked secrets achievements
-          plugin_achievements_display: compact  # Use compact display
-          plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
