@@ -1,22 +1,26 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+# Licensed under The Unlicense
+# Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
+# See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+
 name: Metrics
 on:
-  # Schedule updates (each day)
-  schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0 16 * * *"}]
+  # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
-  push: 
-    branches:
-      - main
 jobs:
-  achievements:
+  metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: 🦑 Achievements
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
-          filename: images/gist.svg
-          token: NOT_NEEDED
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN  }}
           base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+          output_action: gist
+          committer_gist: ${{ secrets.METRICS_TOKEN  }}
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_fortune: yes
