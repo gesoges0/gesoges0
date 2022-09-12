@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://gesoges0.github.io/">github.io</a><br>
-<a href="https://gesoges0.hatenablog.com/ </br>">Development Blog</a><br>
+<a href="https://gesoges0.hatenablog.com/">Development Blog</a><br>
 <a href="https://memo.geso.site/">Notes</a><br>
 <a href="https://umashika5555.hatenablog.com/">Blog (not updated)</a><br>
 <a href="https://www.youtube.com/channel/UC5_0yFUgybKEwmfWvFFGDcQ">YouTube</a><br>
