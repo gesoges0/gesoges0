@@ -4,7 +4,7 @@
 <a href="https://gesoges0.hatenablog.com/ </br>">Development Blog</a><br>
 <a href="https://memo.geso.site/">Notes</a><br>
 <a href="https://umashika5555.hatenablog.com/">Blog (not updated)</a><br>
-<a href="https://www.youtube.com/channel/UC5_0yFUgybKEwmfWvFFGDcQ"></a><br>
+<a href="https://www.youtube.com/channel/UC5_0yFUgybKEwmfWvFFGDcQ">YouTube</a><br>
 <a href="https://www.youtube.com/channel/UCvbL3EnciWtj7eTy0IHMoPg">YouTube</a><br>
 <a href="https://qiita.com/gesogeso">Qiita</a>
 
