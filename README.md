@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<a href="https://gesoges0.github.io/">github.io</a><br>
 <a href="https://memo.geso.site/">memo.geso.site</a><br>
 <a href="https://blog.geso.site/">blog.geso.site</a><br>
 <a href="https://umashika5555.hatenablog.com/">Blog (not updated)</a><br>
