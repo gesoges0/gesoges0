@@ -7,7 +7,7 @@ Blog
 
 YouTube
 - <a href="https://www.youtube.com/@nba_stats/videos">nba stats</a><br>
-- <a href="https://www.youtube.com/@nba_stats/streams">nba stats(live)</a><br>
+- <a href="https://www.youtube.com/@nba_stats/streams">nba stats (live)</a><br>
 - <a href="https://www.youtube.com/@nodatanolife6137/streams">olympic live</a><br>
 - <a href="https://www.youtube.com/@matomeruru/videos">Spotify Chart</a><br>
 
