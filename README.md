@@ -4,5 +4,5 @@
 
 <div>
   <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=gesoges0&count_private=true&include_all_commits=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gesoges0&layout=compact&hide=jupyter%20notebook,css,html,&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gesoges0&layout=compact&hide=jupyter%20notebook,css,html,javascript,Smarty,PostScript&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </div>
